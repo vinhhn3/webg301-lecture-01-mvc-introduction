@@ -23,3 +23,43 @@ Recap on basic knowledge of Web Application
 - `Controller` - converts the input into commands ans send them to the View or Model
 
 ![Alt text](image-1.png)
+
+## How to use XAMPP
+
+To launch the website with XAMPP, you will need to create a folder in the directory below. Make sure to locate the directory in your computer
+
+```bash
+C:\xampp\htdocs
+```
+
+In this case, I will create the folder `mvc-introduction`
+
+![Alt text](image-2.png)
+
+Then, I will put the source code to this folder
+
+![Alt text](image-3.png)
+
+After that, launch `XAMPP` and start the `Apache` server and `MySQL` server
+
+![Alt text](image-4.png)
+
+After that, go to the URL `http://localhost/phpmyadmin/` to launch `phpMyadmin`
+
+![Alt text](image-5.png)
+
+Then, we will create the database `php_mvc_demo` for the web application
+
+![Alt text](image-6.png)
+
+![Alt text](image-7.png)
+
+Then, we will create the table to store the data
+
+![Alt text](image-8.png)
+
+![Alt text](image-9.png)
+
+After that, go to the URL `http://localhost/mvc-introduction/` to see the web application
+
+![Alt text](image-10.png)

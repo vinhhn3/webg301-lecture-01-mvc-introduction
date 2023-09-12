@@ -13,9 +13,8 @@ class sports
     // constructor set default value
     function __construct()
     {
-        $id=0;$category=$name="";
-        $id_msg=$category_msg=$name_msg="";
+        $id = 0;
+        $category = $name = "";
+        $id_msg = $category_msg = $name_msg="";
     }
 }
-
-?>
