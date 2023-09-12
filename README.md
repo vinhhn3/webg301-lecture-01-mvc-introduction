@@ -58,7 +58,7 @@ Then, we will create the table to store the data
 
 ![Alt text](image-8.png)
 
-![Alt text](image-9.png)
+![Alt text](image-11.png)
 
 After that, go to the URL `http://localhost/mvc-introduction/` to see the web application
 
